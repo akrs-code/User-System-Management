@@ -39,8 +39,8 @@ A beginner-friendly PHP + MySQL project with login, registration, and basic CRUD
 
 ## 📌 Notes
 - Passwords are securely hashed
--SQL injection is prevented with prepared statements
--Built for learning raw PHP before using frameworks
+- SQL injection is prevented with prepared statements
+- Built for learning raw PHP before using frameworks
 
 ## 📬 Contact
 Made by Abdul-khaliq Solaiman
