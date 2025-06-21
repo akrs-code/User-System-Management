@@ -35,4 +35,15 @@ A beginner-friendly PHP + MySQL project with login, registration, and basic CRUD
      username VARCHAR(50) NOT NULL UNIQUE,
      password VARCHAR(255) NOT NULL
    );
-  Start XAMPP & visit: http://localhost/your-folder-name/register.php
+4. Start XAMPP & visit: http://localhost/your-folder-name/register.php
+
+##📬 Contact
+Made by Abdul-khaliq Solaiman
+📧 Email: khaliq.business16@gmail.com
+
+##📌 Notes
+- Passwords are securely hashed
+-SQL injection is prevented with prepared statements
+-Built for learning raw PHP before using frameworks
+
+  
