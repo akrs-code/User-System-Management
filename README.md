@@ -36,8 +36,8 @@ A beginner-friendly PHP + MySQL project with login, registration, and basic CRUD
      password VARCHAR(255) NOT NULL
    );
 4. Start XAMPP & visit: http://localhost/your-folder-name/register.php
-
-##📬 Contact
+   
+## 📬 Contact
 Made by Abdul-khaliq Solaiman
 📧 Email: khaliq.business16@gmail.com
 
